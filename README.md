@@ -5,7 +5,9 @@
 ### 後端 PHP RESTful API + MySQL
 
 ### 使用方式
-/php-react 複製到 XAMPP Server HTML Root 資料夾
+**/php-react**
+
+複製到 XAMPP Server HTML Root 資料夾
 
 CRUD API:
 * POST - http://localhost/php-react/add-user.php
@@ -13,7 +15,7 @@ CRUD API:
 * POST - http://localhost/php-react/update-user.php
 * POST - http://localhost/php-react/delete-user.php
 
-/react-php-crud-app
-
-執行
-    npm start
+**/react-php-crud-app**
+```
+執行 npm start
+```
