@@ -17,5 +17,6 @@ CRUD API:
 
 **/react-php-crud-app**
 ```
+執行 npm install  安裝 dependencies
 執行 npm start
 ```
